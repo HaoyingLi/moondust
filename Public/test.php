@@ -1,0 +1,2 @@
+<?php
+	hello_lynn();
